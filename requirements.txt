@@ -1,6 +1,6 @@
 fastapi==0.109.0
 uvicorn[standard]==0.27.0
-pydantic[email]==1.10.13
+pydantic[email]==2.10.6
 pydantic-settings[email]==2.1.0
 sqlalchemy==2.0.25
 python-dateutil==2.8.2
