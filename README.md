@@ -1,6 +1,12 @@
 # HRMS Lite - Backend
 
-Backend API for HRMS Lite (Human Resource Management System) built with FastAPI, SQLAlchemy, and SQLite.
+- Backend API for HRMS Lite (Human Resource Management System) built with FastAPI, SQLAlchemy, and SQLite.
+- **Backend deployed service (Render)** - `https://hrms-backend-1-gd3i.onrender.com/api/docs`
+- **Link to frontend repository** - `https://github.com/naveendev250/hrms_frontend`
+- **Frontend deployed on vercel** - `https://hrms-frontend-ruby-zeta.vercel.app/`
+
+## Important
+> **The `Render` service might slow down after period of inactivity. So when opening, please wait a little while as it can take upto 50 seconds for it to work again properly (according to render).**
 
 ## Tech Stack
 
